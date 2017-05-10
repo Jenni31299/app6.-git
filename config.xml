@@ -5,10 +5,10 @@ xmlns:gap="http://phonegap.com/ns/1.0"
 id="com.phonegap.example!"
 version="1.0.0">
 
-<name> app2Telefonia Celular</name>
+<name> app6 La Batalla de Puebla</name>
 
 <description>
-Aplicacion que muestra informacion telefonica celular telefonica
+Aplicacion que muestra La Batalla de Puebla y mas
 </description>
 
 <author href="https://build.phonegap.com" email="hernandezromerojennifer@gmail.com">
@@ -32,13 +32,6 @@ jennifer hernández romero 4 g
 
 <!--<plugin name="cordova-plugin-geolocation"source="npm"/>-->
 <!--Third party plugins-->
-
-<!--para accesar a paginas en internet-->
-<allow-intent href="https://*/*"/>
-<acces origin="https://*/*"/>
-<allow-intent href="http://*/*"/>
-<acces origin="http://*/*"/>
-<plugin name="cordova-plugin-whitelist" source="npm"/>
 
 <!--Colocar icono app-->
 
